@@ -22,6 +22,7 @@ You will need [Maven](http://maven.apache.org/) for building DDT.
 <div align="center">
 <a><img src="documentation/README_images/ImportPluginProjects.png" /><a/> <br/>
 </div>
+  
    * Note: The actual project names will be different from those in the screenshot above.
    * Note: Java compiler settings will be automatically configured, since Eclipse compiler settings are stored in source version control.
  * Setup the target platform. Unfortunately due to limitations in Tycho/PDE tooling ([more info](https://github.com/tesla/m2eclipse-tycho/issues/29)) some manual steps are required:
